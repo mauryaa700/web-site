@@ -1,0 +1,34 @@
+body,
+html { 
+  background: url(1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+	color: #0374a2;
+	text-align: justify-all;
+
+}
+
+body {
+  background-color: #177298;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 35px;
+}
+.buffer {
+	height: 20rem;
+}
+.btn-xl {
+
+	padding: 1rem 2rem;
+
+}
+.btn {
+	font-size: 2rem;
+	border-radius: 300px;
+}
+.btn-primary {
+	background-color: orange;
+}
